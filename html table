@@ -1,0 +1,44 @@
+<DOCTYPE html>
+    <html>
+        <head>
+            <title>Table and list</title>
+        </head>
+        <h1>Table</h1>
+        <table>
+            <tr>
+                <th>No.</th>
+                <th>Full name</th>
+                <th>Position</th>
+                <th>Salary</th>
+            </tr>
+            <tr>
+                <tb>1</tb>
+                <tb>Bili Gates</tb>
+                <tb>Microsoft</tb>
+                <tb>$1000</tb>
+            </tr>
+            <tr>
+                <tb>2</tb>
+                <tb>Steve Jobs</tb>
+                <tb>Apple</tb>
+                <tb>$1200</tb>
+            </tr>
+        </table>
+        <h1>List</h1>
+        <h2>Scientific method steps</h2>
+        <ol>
+            <li>Observation</li>
+            <li>Ask question</li>
+            <li>Hypothesis</li>
+            <li>Experiment</li>
+            <li>Data collection</li>
+            <li>Conclusion</li>
+        </ol>
+        <h2>The 3 branches of natural science</h2>
+        <ul>
+            <li>Biology</li>
+            <li>Physics</li>
+            <li>Chemistry</li>
+        </ul>
+    </html>
+</DOCTYPE>
